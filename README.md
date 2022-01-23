@@ -2,32 +2,31 @@
 This is Google IT Automation with Python;
 
 
-Project:
+# Project: Google Automation Project 
 
-Contributor:
-@Melongmina
+Contributor: @Melongmina
 
->> Week 0:
+# Week 0:
 Introduction to Google Configuration
 
->> Week 1: 
+# Week 1: 
 1. What We Learnt: We learnt a few examples of what Puppet rules look like, including a bunch of different resources and even a conditional expression. We looked over Automating with Configuration Management. In this module, you learnt the concept of automation at scale and how it can be successfully achieved. You’ll learn what it means to work at scale and how automation is needed to scale effectively. Next, you’ll be introduced to configuration management. You’ll learn the differences between unmanaged and managed configuration management. Then, you’ll dive into infrastructure as code and learn about the benefits it brings, like making your fleet of nodes more reliable and repeatable. This is a major benefit when managing systems at scale. In the next lesson, you’ll be introduced to Puppet. You’ll learn how to apply basic configuration management and how Puppet agents and masters interact with each other. Next, you’ll do a rundown of Puppet resources and classes. You’ll learn how resources are basic units for modelling your configurations and how classes are a collection of resources used to achieve a single goal. The final lesson will introduce you to the building blocks of domain-specific language. You’ll learn what Puppet facts are and how it uses a program called facter to analyze, store and gather this information. Your final lesson will cover the driving principles of configuration management. You’ll learn about declarative, procedural, and idempotent principals and how they differ from each other.
 
 
->> 3. Assessment: Were able to Understand the definition of working at scale and how automation is an essential tool, Understood the difference between unmanaged and managed configuration systems
+## 3. Assessment: Were able to Understand the definition of working at scale and how automation is an essential tool, Understood the difference between unmanaged and managed configuration systems
 List the benefits of infrastructure as code; Understood what Puppet is and how Puppet facts work
 Understand what Puppet resources and classes are; Defined the principles of configuration management.
 
->> 4. Assignment: Understand and explain the different types of storage available;
-Explain the difference between round robin DNS and sticky sessions;
-List the different types of integration testing that are available;
-Understand and explain the concept of SLAs;
-Troubleshoot and debug a system without being physically present;
-Understand what a rollback is and how they can help in a system failure;
-Understand how primary and secondary instances can help in a disaster recovery situation;
-Try to look over the files before the next class. 
+## 4. Assignment: Understand and explain the different types of storage available;
+[ ] Explain the difference between round robin DNS and sticky sessions;
+[ ] List the different types of integration testing that are available;
+[ ] Understand and explain the concept of SLAs;
+[ ] Troubleshoot and debug a system without being physically present;
+[ ] Understand what a rollback is and how they can help in a system failure;
+[ ] Understand how primary and secondary instances can help in a disaster recovery situation;
+[ ] Try to look over the files before the next class. 
 
->> 4. Next Learning Content: 
+## 4. Next Learning Content: 
 
 >> Week 2:
 Deployment Using Puppet
