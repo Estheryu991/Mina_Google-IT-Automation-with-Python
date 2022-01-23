@@ -19,7 +19,7 @@ List the benefits of infrastructure as code; Understood what Puppet is and how P
 Understand what Puppet resources and classes are; Defined the principles of configuration management.
 
 ## 3. Assignment: Understand and explain the different types of storage available;
-[ ] Explain the difference between round robin DNS and sticky sessions;
+- [ ] Explain the difference between round robin DNS and sticky sessions;
 [ ] List the different types of integration testing that are available;
 [ ] Understand and explain the concept of SLAs;
 [ ] Troubleshoot and debug a system without being physically present;
