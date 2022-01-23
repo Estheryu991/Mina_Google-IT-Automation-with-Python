@@ -20,12 +20,12 @@ Understand what Puppet resources and classes are; Defined the principles of conf
 
 ## 3. Assignment: Understand and explain the different types of storage available;
 - [ ] Explain the difference between round robin DNS and sticky sessions;
-[ ] List the different types of integration testing that are available;
-[ ] Understand and explain the concept of SLAs;
-[ ] Troubleshoot and debug a system without being physically present;
-[ ] Understand what a rollback is and how they can help in a system failure;
-[ ] Understand how primary and secondary instances can help in a disaster recovery situation;
-[ ] Try to look over the files before the next class. 
+- [ ] List the different types of integration testing that are available;
+- [ ] Understand and explain the concept of SLAs;
+- [ ] Troubleshoot and debug a system without being physically present;
+- [ ] Understand what a rollback is and how they can help in a system failure;
+- [ ] Understand how primary and secondary instances can help in a disaster recovery situation;
+- [ ] Try to look over the files before the next class. 
 
 ## 4. Next Learning Content: 
 
@@ -41,9 +41,9 @@ Qwiklabs Assessment: Deployment Using Puppet
 [ ] How to use the DSL to create complex rules
 
 ## 3. Assignment:
-[ ] How to create Puppet classes and rules
-[ ] How Puppet interacts with different 
-[ ] How to use the DSL to create complex rules
+- [ ] How to create Puppet classes and rules
+- [ ] How Puppet interacts with different 
+- [ ] How to use the DSL to create complex rules
 
 ## 4. Next Learning Contents: 
 
@@ -56,13 +56,13 @@ You’ll learn about cloud services and the different types of cloud services, l
 We've looked at some ways that we can implement configuration management at your company using Puppet. We saw how we can write Puppet manifests to manage packages, files, and services on one computer, and then extend that to managing more computers by using the server client model. We also checked out how we can use Puppet modules written by other sysadmins or write our own Puppet modules when the existing ones don't meet our needs. We wrapped all this up by looking into how we can test changes to our manifests, and how we can safely roll out changes to our fleet. You've now seen the power of Puppet for managing the configuration of machines in your fleet. You've also seen how a small change can affect a large set of machines, and that's only the tip of the iceberg. There's a ton more things you can do with Puppet that we didn't get to cover. In my team at Google, we're constantly running experiments to test the impact of new features, and see how they might affect the performance of our servers or dependencies.
 
 ## 3. Assignment:  
-[ ] Understand and define SaaS, PaaS, and IaaS
-[ ] Understand the concept of scaling in the cloud and the different ways of scaling
-[ ] Explain what lift and shift means when migrating to the cloud
-[ ] Deploy an instance in the cloud
-[ ] Understand the difference between auto scaling and load balancing
-[ ] Differentiate between orchestration and automation
-[ ] Define the concept of Infrastructure as Code (IaC)
+- [ ] Understand and define SaaS, PaaS, and IaaS
+- [ ] Understand the concept of scaling in the cloud and the different ways of scaling
+- [ ] Explain what lift and shift means when migrating to the cloud
+- [ ] Deploy an instance in the cloud
+- [ ] Understand the difference between auto scaling and load balancing
+- [ ] Differentiate between orchestration and automation
+- [ ] Define the concept of Infrastructure as Code (IaC)
 
 ## 4. Next Learning Contents: 
 
@@ -73,21 +73,21 @@ Building Software for the Cloud, Monitoring and Alerting, Troubleshooting and De
 In this module, you’ll learn all about storing data in the cloud. You’ll rundown the different types of storage available, like block storage and object storage, and how they differ. You’ll explore load balancing further and dive into some load balancing techniques, like round-robin DNS and sticky sessions. Next, you’ll dive into change management, including the different ways to test your changes and how to push them. You’ll explore different testing methods, like unit tests and integration tests. You’ll also cover continuous integration, the use of continuous deployment, and how to apply A/B testing. Next up, you’ll look at some errors you might encounter along the way, like quotas or limits, and how best to avoid or prepare for these. In the next lesson, you’ll get an understanding of monitoring and altering, and review some systems that offer it. You’ll then dive into the concept of SLA’s and how to set achievable ones. Next, you’ll look at basic monitoring in GCP, and create altering policies, set up conditions, and choose aggregators to manage the data. The last lesson will explore troubleshooting and debugging our systems. You’ll learn how to troubleshoot and debug remotely, understand. techniques for how to identify where the failure is coming from, and how to recover from a failure when it strikes.
 
 ## 2. Assessment:
-[ ] Understand and explain the different types of storage available
-[ ] Explain the difference between round robin DNS and sticky sessions
-[ ] List the different types of integration testing that are available
-[ ] Understand and explain the concept of SLAs
-[ ] Troubleshoot and debug a system without being physically present
-[ ] Understand what a rollback is and how they can help in a system failure
-[ ] Understand how primary and secondary instances can help in a disaster recovery situation
+- [ ] Understand and explain the different types of storage available
+- [ ] Explain the difference between round robin DNS and sticky sessions
+- [ ] List the different types of integration testing that are available
+- [ ] Understand and explain the concept of SLAs
+- [ ] Troubleshoot and debug a system without being physically present
+- [ ] Understand what a rollback is and how they can help in a system failure
+- [ ] Understand how primary and secondary instances can help in a disaster recovery situation
 
 ## 3. Assignment:
-[ ] Qwiklabs Assessment: Create VM template and Automate deployment
-[ ] You're an IT Administrator for your company and you're assigned to work on a project that requires you to deploy eight virtual machines (VMs) as web servers. Each of them should have the same configuration. You'll create a VM, set up an auto-enabled service, and make it a template. Then, you'll use the template to create seven more VMs.
-[ ]Create a VM using GCP web UI and make a template out of it
-[ ] Use a command-line interface to interact with VMs
-[ ] Learn how to configure an auto-enabled service
-[ ] Learn to use gcloud to deploy VMs with a template
+- [ ] Qwiklabs Assessment: Create VM template and Automate deployment
+- [ ] You're an IT Administrator for your company and you're assigned to work on a project that requires you to deploy eight virtual machines (VMs) as web servers. Each of them should have the same configuration. You'll create a VM, set up an auto-enabled service, and make it a template. Then, you'll use the template to create seven more VMs.
+- [ ]Create a VM using GCP web UI and make a template out of it
+- [ ] Use a command-line interface to interact with VMs
+- [ ] Learn how to configure an auto-enabled service
+- [ ] Learn to use gcloud to deploy VMs with a template
 
 ## 4. Next Learning Contents:
 Next, you’ll dive into change management, including the different ways to test your changes and how to push them. You’ll explore different testing methods, like unit tests and integration tests. You’ll also cover continuous integration, the use of continuous deployment, and how to apply A/B testing. Next up, you’ll look at some errors you might encounter along the way, like quotas or limits, and how best to avoid or prepare for these. In the next lesson, you’ll get an understanding of monitoring and altering, and review some systems that offer it. You’ll then dive into the concept of SLA’s and how to set achievable ones. Next, you’ll look at basic monitoring in GCP, and create altering policies, set up conditions, and choose aggregators to manage the data. The last lesson will explore troubleshooting and debugging our systems. You’ll learn how to troubleshoot and debug remotely, understand techniques for how to identify where the failure is coming from, and how to recover from a failure when it strikes.
