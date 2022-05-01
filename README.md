@@ -1,5 +1,12 @@
 # Mina_Google-IT-Automation-with-Python
 This is Google IT Automation with Python;
+This program builds on your IT foundations to help you take your career to the next level. It’s designed to teach you how to program with Python and how to use Python to automate common system administration tasks. You'll also learn to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud.
+
+# Goals:
+
+from working on a single computer to an entire fleet. Systems administration is the field of IT that’s responsible for maintaining reliable computers systems in a multi-user environment. In this course, you’ll learn about the infrastructure services that keep all organizations, big and small, up and running. We’ll deep dive on cloud so that you’ll understand everything from typical cloud infrastructure setups to how to manage cloud resources. You'll also learn how to manage and configure servers and how to use industry tools to manage computers, user information, and user productivity. Finally, you’ll learn how to recover your organization’s IT infrastructure in the event of a disaster. By the end of this course you’ll be able to: ● utilize best practices for choosing hardware, vendors, and services for your organization ● understand how the most common infrastructure services that keep an organization running work, and how to manage infrastructure servers ● understand how to make the most of the cloud for your organization ● manage an organization’s computers and users using the directory services, Active Directory, and OpenLDAP ● choose and manage the tools that your organization will use ● backup your organization’s data and know how to recover your IT infrastructure in the case of a disaster ● utilize systems administration knowledge to plan and improve processes for IT environments
+ 
+
 
 
 # Project: Google Automation Project 
