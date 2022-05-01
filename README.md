@@ -107,4 +107,6 @@ https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html
 https://aws.amazon.com/de/blogs/networking-and-content-delivery/vpc-sharing-a-new-approach-to-multiple-accounts-and-vpc-management/
 
 
-![alt text](BA44EC2E-0EB1-41DE-9B1C-92D375C61A86.png)
+![alt text](https://github.com/Estheryu991/Mina_Google-IT-Automation-with-Python/blob/main/LiveClasses/0213FE81-F717-4C5C-A7AD-0E398118EC7B.png)
+
+![alt text](http://url/to/img.png)
