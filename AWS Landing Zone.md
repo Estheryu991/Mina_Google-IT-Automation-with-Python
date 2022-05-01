@@ -4,13 +4,13 @@
 
 <p align="center"><img src="https://i.imgur.com/6LpCoGM.png" /></p>
 
-## 📚Refrence :
+## 📚Reference :
  - [Release Notes](https://solutions-reference.s3.amazonaws.com/aws-landing-zone/v2.4.4/release_notes.html)
  - [Implementation Guide](http://www.awslandingzone.com/guides/aws-landing-zone-implementation-guide.pdf)
  - [Developers Guide](http://www.awslandingzone.com/guides/aws-landing-zone-developer-guide.pdf)
  - [User Guide](http://www.awslandingzone.com/guides/aws-landing-zone-user-guide.pdf)
  - [Upgrade Guide](http://www.awslandingzone.com/guides/aws-landing-zone-upgrade-guide.pdf)
-
+ - [managing-amazon] (https://aws.amazon.com/de/blogs/storage/managing-amazon-s3-access-with-vpc-endpoints-and-s3-access-points/)
 
 ## Feedback
 If you come accross a bug or have any feedback, please log it in our [issue tracker](https://github.com/clouddrove/terraform-aws-cloudtrail-baseline/issues), or feel free to drop us an email at [hello@clouddrove.com](mailto:hello@clouddrove.com).
