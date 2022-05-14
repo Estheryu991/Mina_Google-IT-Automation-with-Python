@@ -28,16 +28,7 @@
 
 This [Serverless](https://github.com/serverless/serverless) plugin emulates [AWS λ](https://aws.amazon.com/lambda) and [API Gateway](https://aws.amazon.com/api-gateway) on your local machine to speed up your development cycles.
 To do so, it starts an HTTP server that handles the request's lifecycle like APIG does and invokes your handlers.
-
-**Features:**
-
-- [Node.js](https://nodejs.org), [Python](https://www.python.org), [Ruby](https://www.ruby-lang.org) and [Go](https://golang.org) λ runtimes.
-- Velocity templates support.
-- Lazy loading of your handler files.
-- And more: integrations, authorizers, proxies, timeouts, responseParameters, HTTPS, CORS, etc...
-
-This plugin is updated by its users, I just do maintenance and ensure that PRs are relevant to the community. In other words, if you [find a bug or want a new feature](https://github.com/dherault/serverless-offline/issues), please help us by becoming one of the [contributors](https://github.com/dherault/serverless-offline/graphs/contributors) :v: ! See the [contributing section](#contributing).
-
+ 
 ## Documentation
 
 - [Installation](#installation)
@@ -69,8 +60,7 @@ This plugin is updated by its users, I just do maintenance and ensure that PRs a
 - [Usage with other plugins](#usage-with-other-plugins)
 - [Credits and inspiration](#credits-and-inspiration)
 - [License](#license)
-- [Contributing](#contributing)
-- [Contributors](#contributors)
+
 
 ## Installation
 
